@@ -1,0 +1,14 @@
+body {
+  background: #11111;
+  text-align: center;
+}
+h1{
+  color: white;
+}
+label {
+  color: white;
+  font-size 4em;
+}
+input{
+  width:75%;
+}
